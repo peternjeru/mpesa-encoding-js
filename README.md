@@ -1,0 +1,1 @@
+How to encode the API authentication credentials for use in the request headers and STK Push
